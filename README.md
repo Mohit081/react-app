@@ -1,1 +1,1 @@
-# mcp-tester
+# react-app
