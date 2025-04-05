@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import WelcomeScreen from "./components/Welcomescreen";
+import WelcomeScreen from "./components/WelcomeScreen";
 import LoginScreen from "./components/LoginScreen";
 import SignupScreen from "./components/SignupScreen";
 import AccountSettings from "./components/AccountSettings";
